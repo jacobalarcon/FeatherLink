@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jacobalarcon/FeatherLink/issues"
   },
-  "homepage": "https://github.com/jacobalarcon/FeatherLink#readme"
+  "homepage": "https://github.com/jacobalarcon/FeatherLink#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
 }
